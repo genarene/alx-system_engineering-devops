@@ -1,1 +1,1 @@
-Shell permissions
+update read me 
