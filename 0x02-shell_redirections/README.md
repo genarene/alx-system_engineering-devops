@@ -1,1 +1,1 @@
-Shell redirections read me
+Shell navigations devops
